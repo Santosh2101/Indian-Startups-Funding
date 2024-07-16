@@ -1,4 +1,4 @@
-# Indian-Startups-Funding
+# Indian-Startups-Funding (Excel)
  This project focuses on analyzing the funding acquired by startups.
  
 **Project Overview:**
